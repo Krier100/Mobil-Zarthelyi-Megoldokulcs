@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">temperature</string>
+    <string name="limit_20">Limit</string>
+    <string name="minus">-</string>
+    <string name="limitSzam">limitSzam</string>
+    <string name="pluss">+</string>
+    <string name="current">20</string>
+    <string name="warningText">DANGER</string>
+</resources>
